@@ -1,5 +1,5 @@
 # WLED_Controller
-My first designed pcb board to control some LEDs.
+My first designed pcb board to control some LEDs with a ESP-WROOM-32.
 
 <img src="images/3d-view.png" alt="drawing" width="500"/>
 <img src="images/pcb.png" alt="drawing" width="300"/>
